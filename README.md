@@ -1,5 +1,5 @@
 # 🚀 Projeto short-links
-Crie uma URL customizada que redirecione para outra página, Projeto desenvolvido no Evento Node na Prática Encurtador de URLs. 
+Crie uma URL customizada que redirecione para outra página, Projeto Encurtador de URLs desenvolvido no Evento Node na Prática da Rocketseat. 
 
 ## 🧊 Funcionalidades
 - URLs originais e reduzidas salvas em base de dados Postgres;
@@ -15,7 +15,7 @@ Crie uma URL customizada que redirecione para outra página, Projeto desenvolvid
 ## :clipboard: Clonando o repositório:
 
 ```sh
-  git clone https://github.com/JuniorLima36/nlw-expert-shortLink.git
+  git clone https://github.com/JuniorLima36/nodejs-na-pratica-shortLink.git
 ```
 
 ### ▶️ Rodando o App:
@@ -41,7 +41,7 @@ Cria uma nova URL.
 ```
 ---
 
-Acessa URL curta (<code>http://localhost:3333/yourShortLink</code>), é redirecionado para url longa (<code>https://github.com/JuniorLima36/yourShortLink</code>). 
+Acessa URL curta (<code>http://localhost:3333/yourShortLink</code>), <br> é redirecionado para url longa (<code>https://github.com/JuniorLima36/yourShortLink</code>). 
 
 #### GET <code>http://localhost:3333/:code</code>
 ---
